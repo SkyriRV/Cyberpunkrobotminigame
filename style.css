@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+h1{
+  color: red;
+  text-align: center;
+}
+
+
+p{
+  font-size:medium;
+  color: rgb(65, 62, 236);
+  font-style: oblique;
+  text-align: center;
+}
+
+.p2{
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  text-align: center;
+}
+
+.imagecentrée{
+  display: block;
+  margin: auto;
+}
+
+.logoA{
+  display: block;
+  margin: auto;
+}
